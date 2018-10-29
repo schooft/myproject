@@ -1,6 +1,6 @@
 # myproject
 
-[![Build Status](https://travis-ci.org/schooft/myproject.svg?branch=master)](https://travis-ci.org/schooft/myproject)
+[![Build Status](https://travis-ci.com/schooft/myproject.svg?branch=master)](https://travis-ci.com/schooft/myproject)
 
 myproject calculates the value of a sample.
 
