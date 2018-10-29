@@ -47,7 +47,7 @@ if not VERSION:
     with open(os.path.join(here, NAME, '__version__.py')) as f:
         exec (f.read(), about)
 else:
-about['__version__'] = VERSION
+    about['__version__'] = VERSION
 
 
 # Where the magic happens:
